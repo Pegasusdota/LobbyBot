@@ -1,0 +1,24 @@
+{
+  "version": "4.6.0-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "Discord.Net": "1.0.0-rc",
+    "Discord.Net.Commands": "1.0.0-rc",
+    "Discord.Net.Rest": "1.0.0-rc",
+    "Discord.Net.Rpc": "1.0.0-rc",
+    "Discord.Net.WebSocket": "1.0.0-rc",
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "1.0.1"
+    }
+  },
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": "dnxcore50"
+    }
+  }
+}

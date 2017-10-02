@@ -1,0 +1,11 @@
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\bin\Release\netcoreapp1.0\MyBot.deps.json
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\bin\Release\netcoreapp1.0\MyBot.runtimeconfig.json
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\bin\Release\netcoreapp1.0\MyBot.runtimeconfig.dev.json
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\bin\Release\netcoreapp1.0\MyBot.dll
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\bin\Release\netcoreapp1.0\MyBot.pdb
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\obj\Release\netcoreapp1.0\MyBot.csprojResolveAssemblyReference.cache
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\obj\Release\netcoreapp1.0\MyBot.csproj.CoreCompileInputs.cache
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\obj\Release\netcoreapp1.0\MyBot.AssemblyInfoInputs.cache
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\obj\Release\netcoreapp1.0\MyBot.AssemblyInfo.cs
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\obj\Release\netcoreapp1.0\MyBot.dll
+C:\Users\parks_000\Documents\Projects\MyBot VS2017\MyBot\src\MyBot\obj\Release\netcoreapp1.0\MyBot.pdb
